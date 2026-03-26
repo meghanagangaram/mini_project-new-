@@ -1,0 +1,8 @@
+com\periodtracker\service\PredictionService.class
+com\periodtracker\PeriodTrackerApplication.class
+com\periodtracker\repository\PeriodRepository.class
+com\periodtracker\controller\DashboardController.class
+com\periodtracker\model\User.class
+com\periodtracker\repository\UserRepository.class
+com\periodtracker\model\PeriodData.class
+com\periodtracker\controller\AuthController.class
